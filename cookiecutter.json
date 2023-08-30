@@ -1,5 +1,3 @@
 {
-    "project_name": "Project name",
-    "project_folder_name": "{{ cookiecutter.project_name.lower().replace('-','').replace(' ', '_') }}",
-    "python_version": "3.9.13"
+    "project_folder_name": "{{ cookiecutter.project_name.lower().replace('-','').replace(' ', '_') }}"
 }

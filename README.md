@@ -4,8 +4,8 @@ A logical, reasonably standardized, but flexible project structure for doing bui
 
 ## Requirements 
 In order to use the cookiecutter template:
- - Python 3.5+
- - [Cookiecutter Python package](http://cookiecutter.readthedocs.org/en/latest/installation.html) >= 1.4.0
+ - Python 3.7+
+ - [Cookiecutter Python package](http://cookiecutter.readthedocs.org/en/latest/installation.html) >= 2.3.0
  
 **If you don't have `cookiecutter`**, run
 ``` shell
